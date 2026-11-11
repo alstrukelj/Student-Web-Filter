@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "enabled": true,
+  "blocked": [
+    "poki.com", "crazygames.com", "friv.com", "y8.com",
+    "miniclip.com", "agame.com", "gamesgames.com", "kongregate.com",
+    "armorgames.com", "coolmathgames.com", "addictinggames.com",
+    "kizi.com", "gamepix.com", "silvergames.com", "1001games.com",
+    "lagged.com", "now.gg", "playhop.com", "itch.io"
+  ],
+  "allowed": []
+}
