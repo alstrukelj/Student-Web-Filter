@@ -1,12 +1,31 @@
 {
-  "version": 1,
-  "enabled": true,
-  "blocked": [
-    "poki.com", "crazygames.com", "friv.com", "y8.com",
-    "miniclip.com", "agame.com", "gamesgames.com", "kongregate.com",
-    "armorgames.com", "coolmathgames.com", "addictinggames.com",
-    "kizi.com", "gamepix.com", "silvergames.com", "1001games.com",
-    "lagged.com", "now.gg", "playhop.com", "itch.io", "igre123.com", "zulu.si"
-  ],
-  "allowed": []
+    "version":  1,
+    "enabled":  true,
+    "blocked":  [
+                    "1001games.com",
+                    "addictinggames.com",
+                    "agame.com",
+                    "armorgames.com",
+                    "coolmathgames.com",
+                    "crazygames.com",
+                    "friv.com",
+                    "gamepix.com",
+                    "gamesgames.com",
+                    "igre123.com",
+                    "itch.io",
+                    "kizi.com",
+                    "kongregate.com",
+                    "lagged.com",
+                    "miniclip.com",
+                    "now.gg",
+                    "playhop.com",
+                    "poki.com",
+                    "silvergames.com",
+                    "test-filter.example.com",
+                    "y8.com",
+                    "zulu.si"
+                ],
+    "allowed":  [
+
+                ]
 }
