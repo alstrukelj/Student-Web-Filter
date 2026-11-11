@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "enabled":  false,
+    "enabled":  true,
     "blocked":  [
                     "1001games.com",
                     "addictinggames.com",
