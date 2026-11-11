@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": false,
+  "enabled": true,
   "blocked": [
     "poki.com", "crazygames.com", "friv.com", "y8.com",
     "miniclip.com", "agame.com", "gamesgames.com", "kongregate.com",
